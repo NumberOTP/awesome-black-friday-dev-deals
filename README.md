@@ -8,7 +8,7 @@ Black Friday 2026 deals on AI and developer tools.
 Grab a code, save some money, get back to building.
 
 <!-- stats:start -->
-**81 deals and counting** · last updated 27 Nov 2026
+**82 deals and counting** · last updated 27 Nov 2026
 <!-- stats:end -->
 
 **[Add your deal](https://github.com/meSingh/awesome-black-friday-dev-deals/new/main/deals?filename=your-product.yml&value=%23%20Add%20your%20Black%20Friday%20deal.%20It%20is%20free.%0A%23%0A%23%201.%20Rename%20this%20file%20to%20your%20product%2C%20for%20example%20acme-cli.yml%0A%23%20%20%20%20%28lowercase%20letters%2C%20digits%20and%20dashes%29.%0A%23%202.%20Fill%20in%20the%20lines%20below.%20Leave%20code%2C%20image%20and%20logo%20empty%20if%20you%20have%20none.%0A%23%203.%20Click%20%22Commit%20changes%22%2C%20then%20%22Create%20pull%20request%22.%20That%20is%20all.%0A%23%0A%23%20category%20is%20one%20of%3A%20AI%20tools%20%7C%20AI%20video%2C%20image%20and%20voice%20%7C%20Developer%20tools%20%7C%20Hosting%20and%20cloud%20%7C%20Databases%20and%20backend%20%7C%20Email%20%7C%20Design%20and%20UI%20%7C%20Starter%20kits%20%7C%20SEO%20and%20marketing%20%7C%20Courses%20and%20books%20%7C%20Productivity%20%7C%20Mac%20and%20desktop%20apps%20%7C%20Security%20%7C%20Other%0A%23%20relation%20is%20one%20of%3A%20I%20built%20it%20%7C%20I%20use%20it%20%7C%20No%20relation%0A%23%20dates%20look%20like%202026-11-27%0A%0Aname%3A%0Aurl%3A%0Acategory%3A%0Adiscount%3A%0Acode%3A%0Astarts%3A%0Aends%3A%0Adescription%3A%0Aimage%3A%0Alogo%3A%0Arelation%3A%0A)** · **[Star the list](https://github.com/meSingh/awesome-black-friday-dev-deals)** · **[Browse on dev.express](https://dev.express/black-friday/?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2026)**
@@ -55,7 +55,7 @@ If the list helps you, a star and a share help other developers find it. Your li
 - [SEO and marketing](#seo-and-marketing) (8): SEO, analytics, social and messaging tools
 - [Courses and books](#courses-and-books) (12): Courses, books and certifications for engineers
 - [Productivity](#productivity) (5): Tasks, notes, meetings, focus
-- [Mac and desktop apps](#mac-and-desktop-apps) (6): Utilities a developer keeps open all day
+- [Mac and desktop apps](#mac-and-desktop-apps) (7): Utilities a developer keeps open all day
 - [Security](#security) (3): Scanning, secrets, sign-in, privacy
 <!-- toc:end -->
 
@@ -187,6 +187,7 @@ If the list helps you, a star and a share help other developers find it. Your li
 | Product | What it is | Deal | Dates | Link |
 |---|---|---|---|---|
 | [BetterTouchTool](https://folivora.ai/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Mac utility for customising trackpad gestures, keyboard shortcuts and window snapping | **Up to 40% off** | Until&nbsp;30&nbsp;Nov | [Get&nbsp;the&nbsp;deal](https://folivora.ai/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
+| [CleanShot X](https://cleanshot.com/pricing?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Screenshot and screen recording app for Mac with annotation, scrolling capture and cloud sharing | **30% off the app, 50% off the first year of the cloud plan** | 27&nbsp;Nov&nbsp;to&nbsp;1&nbsp;Dec | [Get&nbsp;the&nbsp;deal](https://cleanshot.com/pricing?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
 | [JuxtaCode](https://juxtacode.app/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Mac app for browsing Git commits, comparing branches and resolving merge conflicts | **40% off** with code `BLACKFRIDAY26` | Until&nbsp;1&nbsp;Dec | [Get&nbsp;the&nbsp;deal](https://juxtacode.app/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
 | [Proxyman](https://proxyman.com/pricing?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | HTTP and HTTPS debugging proxy for macOS, iOS, Windows and Linux | **30% off** with code `BF2026` |  | [Get&nbsp;the&nbsp;deal](https://proxyman.com/pricing?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
 | [Sidekick](https://heysidekick.app/black-friday/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Mac app that keeps your Google Tasks on screen, floating over whatever you are working on _(made by the maintainer of this list)_ | **33% off Premium, $6 once instead of $9** with code `BLACKFRIDAY` | Until&nbsp;4&nbsp;Dec | [Get&nbsp;the&nbsp;deal](https://heysidekick.app/black-friday/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |

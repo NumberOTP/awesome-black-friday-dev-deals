@@ -2,10 +2,13 @@ name: CleanShot X
 url: https://cleanshot.com/pricing
 category: Mac and desktop apps
 discount: 30% off the app, 50% off the first year of the cloud plan
-code: 
+code:
 starts: 2026-11-27
 ends: 2026-12-01
 description: Screenshot and screen recording app for Mac with annotation, scrolling capture and cloud sharing
-image:
+image: https://cleanshot.com/img/ogimage.png
 logo:
-relation: No relation
+relation: I found it and have no relation to it
+added: 2026-11-27
+submitter: meSingh
+source: #16
