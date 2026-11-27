@@ -5,7 +5,10 @@ discount: 40% off unlimited ($2.40) or 60% off first 10 ($1.60)
 code: SCOPE40
 starts: 2026-11-27
 ends: 2026-12-01
-description: Offline freelance WBS quote estimator, 8 SOW guardrails, PDF export, and 5-sheet Excel workbook.
+description: Offline freelance WBS quote estimator, 8 SOW guardrails, PDF export, and 5-sheet Excel workbook
 image: https://tolga571.github.io/assets/scopeforge.png
 logo:
-relation: I built it
+relation: I built it or work on it
+added: 2026-11-27
+submitter: tolga571
+source: #22

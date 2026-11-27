@@ -771,6 +771,19 @@
    "added": "2026-11-26"
   },
   {
+   "id": "scopeforge-studio",
+   "name": "ScopeForge Studio",
+   "url": "https://tolga571.github.io/black-friday-2026.html",
+   "category": "dev",
+   "discount": "40% off unlimited ($2.40) or 60% off first 10 ($1.60)",
+   "code": "SCOPE40",
+   "starts": "2026-11-27",
+   "ends": "2026-12-01",
+   "description": "Offline freelance WBS quote estimator, 8 SOW guardrails, PDF export, and 5-sheet Excel workbook",
+   "added": "2026-11-27",
+   "image": "https://tolga571.github.io/assets/scopeforge.png"
+  },
+  {
    "id": "screenpipe",
    "name": "Screenpipe",
    "url": "https://screenpipe.com/black-friday",
