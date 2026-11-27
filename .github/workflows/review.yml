@@ -80,7 +80,9 @@ jobs:
       # variable SITE_REPO and the secret SITE_BUILD_TOKEN, a token that can do one thing: start
       # a workflow there. Without them this step says so and passes, and so does a failed ask.
       - name: Tell the website
-        if: steps.commit.outputs.pushed == 'true'
+        # A run started by hand always asks, which is how to try this step. Asking when nothing
+        # changed costs nothing: the website looks, finds the same list and stops.
+        if: steps.commit.outputs.pushed == 'true' || github.event_name == 'workflow_dispatch'
         env:
           GH_TOKEN: ${{ secrets.SITE_BUILD_TOKEN }}
           SITE_REPO: ${{ vars.SITE_REPO }}
