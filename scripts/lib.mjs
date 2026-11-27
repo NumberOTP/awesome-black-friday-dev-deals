@@ -236,6 +236,7 @@ export const DEAL_TEMPLATE = `# Add your Black Friday deal. It is free.
 # 2. Fill in the lines below. Leave code, image and logo empty if you have none.
 # 3. Click "Commit changes", then "Create pull request". That is all.
 #
+# discount is 60 characters or fewer, for example: 40% off annual plans
 # category is one of: ${CATEGORIES.map((c) => c.name).join(' | ')}
 # relation is one of: I built it | I use it | No relation
 # dates look like 2026-11-27
