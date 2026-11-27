@@ -6,6 +6,9 @@ code: BLACKFRIDAY
 starts: 2026-11-27
 ends: 2026-12-02
 description: WordPress plugin for speeding up sites by turning off unused scripts and delaying JavaScript
-image:
+image: https://perfmatters.io/wp-content/uploads/2022/07/perfmatters-social-v3.png
 logo:
-relation: No relation
+relation: I found it and have no relation to it
+added: 2026-11-27
+submitter: meSingh
+source: #15

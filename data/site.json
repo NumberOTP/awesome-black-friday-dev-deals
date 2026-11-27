@@ -570,6 +570,19 @@
    "added": "2026-11-26"
   },
   {
+   "id": "perfmatters",
+   "name": "Perfmatters",
+   "url": "https://perfmatters.io/",
+   "category": "dev",
+   "discount": "30% off",
+   "code": "BLACKFRIDAY",
+   "starts": "2026-11-27",
+   "ends": "2026-12-02",
+   "description": "WordPress plugin for speeding up sites by turning off unused scripts and delaying JavaScript",
+   "added": "2026-11-27",
+   "image": "https://perfmatters.io/wp-content/uploads/2022/07/perfmatters-social-v3.png"
+  },
+  {
    "id": "pictory",
    "name": "Pictory",
    "url": "https://pictory.ai/pricing",
