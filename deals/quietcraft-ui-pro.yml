@@ -5,7 +5,10 @@ discount: 40% off ($3 with FIRST50) or 60% off first 10 ($2)
 code: FIRST50
 starts: 2026-11-27
 ends: 2026-12-01
-description: Clean React 19 and Tailwind CSS v4 component kit with 4px tokens, dark/light themes, Figma tokens, and Playwright QA.
+description: Clean React 19 and Tailwind CSS v4 component kit with 4px tokens, dark/light themes, Figma tokens, and Playwright QA
 image: https://tolga571.github.io/assets/quietcraft.png
-logo:
-relation: I built it
+logo: https://public-files.gumroad.com/0aedv07xv4eat5ncuu4k5kdzyarx
+relation: I built it or work on it
+added: 2026-11-27
+submitter: tolga571
+source: #23

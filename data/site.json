@@ -759,6 +759,20 @@
    "added": "2026-11-26"
   },
   {
+   "id": "quietcraft-ui-pro",
+   "name": "QuietCraft UI Pro",
+   "url": "https://jumpertheme.gumroad.com/l/quietcraft-ui-pro/FIRST50",
+   "category": "design",
+   "discount": "40% off ($3 with FIRST50) or 60% off first 10 ($2)",
+   "code": "FIRST50",
+   "starts": "2026-11-27",
+   "ends": "2026-12-01",
+   "description": "Clean React 19 and Tailwind CSS v4 component kit with 4px tokens, dark/light themes, Figma tokens, and Playwright QA",
+   "added": "2026-11-27",
+   "image": "https://tolga571.github.io/assets/quietcraft.png",
+   "logo": "https://public-files.gumroad.com/0aedv07xv4eat5ncuu4k5kdzyarx"
+  },
+  {
    "id": "saasykit",
    "name": "SaaSykit",
    "url": "https://saasykit.com/",
