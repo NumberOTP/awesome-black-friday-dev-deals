@@ -166,6 +166,18 @@
    "image": "https://cleanshot.com/img/ogimage.png"
   },
   {
+   "id": "cloudways",
+   "name": "Cloudways",
+   "url": "https://www.cloudways.com/blog/thanksgiving-black-friday-cyber-monday-deal/",
+   "category": "hosting",
+   "discount": "80% off the first 2 months for new customers",
+   "code": "BFCM802",
+   "starts": "2026-11-05",
+   "ends": "2026-12-04",
+   "description": "Managed cloud hosting for PHP and WordPress apps on DigitalOcean, AWS and Google Cloud servers",
+   "added": "2026-11-27"
+  },
+  {
    "id": "colossyan",
    "name": "Colossyan",
    "url": "https://www.colossyan.com/pricing",
