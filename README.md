@@ -8,7 +8,7 @@ Black Friday 2026 deals on AI and developer tools.
 Grab a code, save some money, get back to building.
 
 <!-- stats:start -->
-**79 deals and counting** · last updated 27 Nov 2026
+**80 deals and counting** · last updated 27 Nov 2026
 <!-- stats:end -->
 
 **[Add your deal](https://github.com/meSingh/awesome-black-friday-dev-deals/new/main/deals?filename=your-product.yml&value=%23%20Add%20your%20Black%20Friday%20deal.%20It%20is%20free.%0A%23%0A%23%201.%20Rename%20this%20file%20to%20your%20product%2C%20for%20example%20acme-cli.yml%0A%23%20%20%20%20%28lowercase%20letters%2C%20digits%20and%20dashes%29.%0A%23%202.%20Fill%20in%20the%20lines%20below.%20Leave%20code%2C%20image%20and%20logo%20empty%20if%20you%20have%20none.%0A%23%203.%20Click%20%22Commit%20changes%22%2C%20then%20%22Create%20pull%20request%22.%20That%20is%20all.%0A%23%0A%23%20category%20is%20one%20of%3A%20AI%20tools%20%7C%20AI%20video%2C%20image%20and%20voice%20%7C%20Developer%20tools%20%7C%20Hosting%20and%20cloud%20%7C%20Databases%20and%20backend%20%7C%20Email%20%7C%20Design%20and%20UI%20%7C%20Starter%20kits%20%7C%20SEO%20and%20marketing%20%7C%20Courses%20and%20books%20%7C%20Productivity%20%7C%20Mac%20and%20desktop%20apps%20%7C%20Security%20%7C%20Other%0A%23%20relation%20is%20one%20of%3A%20I%20built%20it%20%7C%20I%20use%20it%20%7C%20No%20relation%0A%23%20dates%20look%20like%202026-11-27%0A%0Aname%3A%0Aurl%3A%0Acategory%3A%0Adiscount%3A%0Acode%3A%0Astarts%3A%0Aends%3A%0Adescription%3A%0Aimage%3A%0Alogo%3A%0Arelation%3A%0A)** · **[Star the list](https://github.com/meSingh/awesome-black-friday-dev-deals)** · **[Browse on dev.express](https://dev.express/black-friday/?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2026)**
@@ -47,7 +47,7 @@ If the list helps you, a star and a share help other developers find it. Your li
 - [Design and UI](#design-and-ui) (6): UI kits, components, icons, design tools
 - [Starter kits](#starter-kits) (3): Code templates that get a product shipped sooner
 - [SEO and marketing](#seo-and-marketing) (8): SEO, analytics, social and messaging tools
-- [Courses and books](#courses-and-books) (11): Courses, books and certifications for engineers
+- [Courses and books](#courses-and-books) (12): Courses, books and certifications for engineers
 - [Productivity](#productivity) (5): Tasks, notes, meetings, focus
 - [Mac and desktop apps](#mac-and-desktop-apps) (6): Utilities a developer keeps open all day
 - [Security](#security) (3): Scanning, secrets, sign-in, privacy
@@ -154,6 +154,7 @@ If the list helps you, a star and a share help other developers find it. Your li
 |---|---|---|---|---|
 | [Academind](https://academind.com/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Video courses on web development, cloud and agentic software development | **A year of All Access for $199 (was $249)** | Until&nbsp;4&nbsp;Dec | [Get&nbsp;the&nbsp;deal](https://academind.com/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
 | [Ardan Labs](https://www.ardanlabs.com/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Training in Go, Rust, Kubernetes and AI systems engineering, self-paced and live | **Self-paced bundles 40% off, live workshops 25% off** |  | [Get&nbsp;the&nbsp;deal](https://www.ardanlabs.com/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
+| [LabEx Pro](https://labex.io/pricing?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Browser-based hands-on labs for Linux, DevOps, cybersecurity, and cloud | **50% off 2 years, $99.90 one-time** with code `2026BF50` | 15&nbsp;Nov&nbsp;to&nbsp;7&nbsp;Dec | [Get&nbsp;the&nbsp;deal](https://labex.io/pricing?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
 | [Laravel Daily](https://laraveldaily.com/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Laravel courses and premium tutorials by Povilas Korop | **50% off all membership plans** | Until&nbsp;1&nbsp;Dec | [Get&nbsp;the&nbsp;deal](https://laraveldaily.com/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
 | [Let's Go by Alex Edwards](https://lets-go.alexedwards.net/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Book on building production web applications with Go | **30% off all versions** | Until&nbsp;1&nbsp;Dec | [Get&nbsp;the&nbsp;deal](https://lets-go.alexedwards.net/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
 | [Linux Foundation Education](https://training.linuxfoundation.org/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Training courses and certifications such as CKA, CKAD and Linux system administration | **Up to 65% off training and certifications** | 27&nbsp;Nov&nbsp;to&nbsp;4&nbsp;Dec | [Get&nbsp;the&nbsp;deal](https://training.linuxfoundation.org/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
