@@ -8,7 +8,7 @@ Black Friday 2026 deals on AI and developer tools.
 Grab a code, save some money, get back to building.
 
 <!-- stats:start -->
-**78 deals and counting** · last updated 27 Nov 2026
+**79 deals and counting** · last updated 27 Nov 2026
 <!-- stats:end -->
 
 **[Add your deal](https://github.com/meSingh/awesome-black-friday-dev-deals/new/main/deals?filename=your-product.yml&value=%23%20Add%20your%20Black%20Friday%20deal.%20It%20is%20free.%0A%23%0A%23%201.%20Rename%20this%20file%20to%20your%20product%2C%20for%20example%20acme-cli.yml%0A%23%20%20%20%20%28lowercase%20letters%2C%20digits%20and%20dashes%29.%0A%23%202.%20Fill%20in%20the%20lines%20below.%20Leave%20code%2C%20image%20and%20logo%20empty%20if%20you%20have%20none.%0A%23%203.%20Click%20%22Commit%20changes%22%2C%20then%20%22Create%20pull%20request%22.%20That%20is%20all.%0A%23%0A%23%20category%20is%20one%20of%3A%20AI%20tools%20%7C%20AI%20video%2C%20image%20and%20voice%20%7C%20Developer%20tools%20%7C%20Hosting%20and%20cloud%20%7C%20Databases%20and%20backend%20%7C%20Email%20%7C%20Design%20and%20UI%20%7C%20Starter%20kits%20%7C%20SEO%20and%20marketing%20%7C%20Courses%20and%20books%20%7C%20Productivity%20%7C%20Mac%20and%20desktop%20apps%20%7C%20Security%20%7C%20Other%0A%23%20relation%20is%20one%20of%3A%20I%20built%20it%20%7C%20I%20use%20it%20%7C%20No%20relation%0A%23%20dates%20look%20like%202026-11-27%0A%0Aname%3A%0Aurl%3A%0Acategory%3A%0Adiscount%3A%0Acode%3A%0Astarts%3A%0Aends%3A%0Adescription%3A%0Aimage%3A%0Alogo%3A%0Arelation%3A%0A)** · **[Star the list](https://github.com/meSingh/awesome-black-friday-dev-deals)** · **[Browse on dev.express](https://dev.express/black-friday/?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2026)**
@@ -39,7 +39,7 @@ If the list helps you, a star and a share help other developers find it. Your li
 ## Categories
 
 <!-- toc:start -->
-- [AI tools](#ai-tools) (6): Coding assistants, model APIs, agents, AI app builders
+- [AI tools](#ai-tools) (7): Coding assistants, model APIs, agents, AI app builders
 - [AI video, image and voice](#ai-video-image-and-voice) (10): Video, image and voice generation, with or without an API
 - [Developer tools](#developer-tools) (8): Editors, Git, APIs, testing, debugging, monitoring
 - [Hosting and cloud](#hosting-and-cloud) (6): VPS, serverless, CDN, domains, deployment
@@ -64,6 +64,7 @@ If the list helps you, a star and a share help other developers find it. Your li
 | [ProWritingAid](https://prowritingaid.com/pricing?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Grammar checker and AI writing editor for long-form text and manuscripts | **50% off Premium and Premium Pro** |  | [Get&nbsp;the&nbsp;deal](https://prowritingaid.com/pricing?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
 | [Screenpipe](https://screenpipe.com/black-friday?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Open-source app that records your screen and audio locally so AI agents can use your work history as context over MCP | **20% off the first year of annual plans** | 25&nbsp;Nov&nbsp;to&nbsp;30&nbsp;Nov | [Get&nbsp;the&nbsp;deal](https://screenpipe.com/black-friday?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
 | [TypingMind](https://www.typingmind.com/buy?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | Chat UI for ChatGPT, Claude, Gemini and other AI models with your own API keys, with MCP, plugins, AI agents and local chat storage | **60% off Lifetime Premium ($198 to $79)** with code `BLACKFRIDAY2026` | 2&nbsp;Nov&nbsp;to&nbsp;5&nbsp;Dec | [Get&nbsp;the&nbsp;deal](https://www.typingmind.com/buy?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
+| [Whizi](https://whizi.io/pricing/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) | One AI app with GPT, Claude, Gemini, Grok and 280+ other models, plus image and video generation, file chat and research, on web, iOS and Android | **30% off the first year of yearly plans** | 24&nbsp;Nov&nbsp;to&nbsp;24&nbsp;Dec | [Get&nbsp;the&nbsp;deal](https://whizi.io/pricing/?utm_source=dev.express&utm_medium=github&utm_campaign=black-friday-2026) |
 
 ## AI video, image and voice
 
