@@ -2,7 +2,7 @@
 
 <a href="https://dev.express/black-friday/?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2026"><img src="assets/banner.png" alt="Black Friday 2026 deals on AI and developer tools, by dev.express" width="100%"></a>
 
-# Black Friday Deals by dev.express
+# Black Friday Deals by [dev.express](https://dev.express/?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2026)
 
 Black Friday 2026 deals on AI and developer tools.
 Grab a code, save some money, get back to building.
@@ -17,11 +17,17 @@ Grab a code, save some money, get back to building.
 
 ## Why this list
 
-I wanted one place for the Black Friday deals I would use as a developer, so I made it. It is part of [dev.express](https://dev.express/?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2026), a launch board for developer tools that is on its way.
+I wanted one place for the Black Friday deals I would use as a developer, so I made it. It is part of [dev.express](https://dev.express/?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2026), where something more for developers is on its way.
 
 - **It is for people who build.** AI tools, developer tools, hosting, databases, starter kits, courses and books.
 - **Links go straight to the seller.** No affiliate links.
 - **Listing yours is free.** It takes about two minutes.
+
+## Browse them on dev.express
+
+The same deals are easier to get through on the website. Search by name, filter by category, sort by what ends soonest, and open any product for its own page.
+
+<a href="https://dev.express/black-friday/?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2026"><img src="assets/site-preview.png" alt="The Black Friday deals page on dev.express: a search box, category filters and a grid of deal cards" width="100%"></a>
 
 ## Add your deal
 
