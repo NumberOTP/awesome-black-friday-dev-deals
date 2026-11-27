@@ -415,6 +415,20 @@
    "added": "2026-11-26"
   },
   {
+   "id": "krevaya",
+   "name": "Krevaya",
+   "url": "https://krevaya.com/black-friday/",
+   "category": "marketing",
+   "discount": "Lifetime from $199 (first 100 buyers) or 30% off first year",
+   "code": "",
+   "starts": "2026-11-26",
+   "ends": "2026-12-04",
+   "description": "Design social posts (images, carousels, videos) in a layered editor and schedule them to 34 channels from one calendar",
+   "added": "2026-11-27",
+   "image": "https://krevaya.com/marketing/social/studio-screencast-20261022.jpg",
+   "logo": "https://krevaya.com/apple-icon.png?52105469b8647efb"
+  },
+  {
    "id": "krisp",
    "name": "Krisp",
    "url": "https://krisp.ai/pricing/",
