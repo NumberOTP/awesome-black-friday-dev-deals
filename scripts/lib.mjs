@@ -563,7 +563,7 @@ export function comment(action, { repo, site = SITE_URL, user = '' }) {
       '',
       bullets(action.reasons),
       '',
-      'The list is for software and tools that developers, founders and AI builders use, linked straight to the seller. If we got this wrong, reply here and I will take another look. A different deal is always welcome.',
+      'The list is for software and tools that developers, founders and AI builders use, linked straight to the seller. If we got this wrong, reply here and it will get another look. A different deal is always welcome.',
     ].join('\n');
   }
 
@@ -573,7 +573,7 @@ export function comment(action, { repo, site = SITE_URL, user = '' }) {
       '',
       bullets(action.reasons),
       '',
-      'I will open it myself and list it. There is nothing you need to do.',
+      'It gets opened in a normal browser next, usually within the hour, and listed if the offer is there. There is nothing you need to do.',
     ].join('\n');
   }
 
