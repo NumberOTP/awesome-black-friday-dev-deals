@@ -59,10 +59,12 @@ jobs:
           node scripts/review.mjs finalize
           node scripts/build.mjs
       - name: Commit
+        id: commit
         run: |
           if [ -z "$(git status --porcelain -- deals data/site.json README.md)" ]; then
             exit 0
           fi
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add deals data/site.json README.md
@@ -73,3 +75,19 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           REVIEW_ACTIONS: ${{ runner.temp }}/review-actions.json
         run: node scripts/review.mjs notify
+      # dev.express gives every deal its own page. When the list has changed, ask the website's
+      # repository to pick the change up now instead of at its next hourly look. This needs the
+      # variable SITE_REPO and the secret SITE_BUILD_TOKEN, a token that can do one thing: start
+      # a workflow there. Without them this step says so and passes, and so does a failed ask.
+      - name: Tell the website
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.SITE_BUILD_TOKEN }}
+          SITE_REPO: ${{ vars.SITE_REPO }}
+        run: |
+          if [ -z "$GH_TOKEN" ] || [ -z "$SITE_REPO" ]; then
+            echo "::notice::SITE_REPO or SITE_BUILD_TOKEN is not set, so the website picks this up at its next hourly look."
+            exit 0
+          fi
+          gh api -X POST "repos/$SITE_REPO/actions/workflows/listings.yml/dispatches" -f ref=main \
+            || echo "::warning::The website could not be told. It picks this up at its next hourly look."
