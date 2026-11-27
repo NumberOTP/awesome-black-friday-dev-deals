@@ -290,6 +290,20 @@
    "added": "2026-11-26"
   },
   {
+   "id": "flavio-copes-courses",
+   "name": "Flavio Copes courses",
+   "url": "https://flaviocopes.com/black-friday/",
+   "category": "learn",
+   "discount": "AI Workshop $99 (was $299), 4 masterclasses $49 (was $76)",
+   "code": "",
+   "starts": "2026-11-27",
+   "ends": "2026-11-30",
+   "description": "A video course on building software with AI coding agents, plus text masterclasses on TypeScript, React, Git and the AHA Stack",
+   "added": "2026-11-27",
+   "image": "https://flaviocopes.com/img/og.png",
+   "logo": "https://flaviocopes.com/img/apple-touch-icon.png"
+  },
+  {
    "id": "flux-ui",
    "name": "Flux UI",
    "url": "https://fluxui.dev/pricing",
@@ -1022,6 +1036,20 @@
    "ends": "2026-11-30",
    "description": "SEO platform with AI agents that propose changes for search and AI answer visibility",
    "added": "2026-11-26"
+  },
+  {
+   "id": "vue-school",
+   "name": "Vue School",
+   "url": "https://vueschool.io/sales/blackfriday",
+   "category": "learn",
+   "discount": "75% off Vue School Premium with Unlearn.dev, $149",
+   "code": "",
+   "starts": "2026-11-27",
+   "ends": "2026-12-02",
+   "description": "Video courses on Vue, Nuxt, Pinia, TypeScript and the tools around them",
+   "added": "2026-11-27",
+   "image": "https://vueschool.io/images/blackfriday/og-2026-mega-deal.jpg",
+   "logo": "https://vueschool.io/apple-touch-icon.png"
   },
   {
    "id": "wassenger",
